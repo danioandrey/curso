@@ -1,2 +1,0 @@
-# curso
-Created with CodeSandbox
